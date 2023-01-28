@@ -1,7 +1,7 @@
 {
   "name": "@realdevsquad-constants/realdevsquad-constants",
   "version": "1.0.0",
-  "description": "This package all the constants required for apps in Real Dev Squad.",
+  "description": "This package contains all the constants required for apps in Real Dev Squad.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
