@@ -1,0 +1,24 @@
+{
+  "name": "@realdevsquad-constants/realdevsquad-constants",
+  "version": "1.0.0",
+  "description": "This package all the constants required for apps in Real Dev Squad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JAYATEJA04/realdevsquad-constants.git"
+  },
+  "keywords": [
+    "Constants",
+    "apps",
+    "RDS"
+  ],
+  "author": "Jaya Teja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JAYATEJA04/realdevsquad-constants/issues"
+  },
+  "homepage": "https://github.com/JAYATEJA04/realdevsquad-constants#readme"
+}
