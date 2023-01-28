@@ -1,6 +1,6 @@
 {
   "name": "@realdevsquad-constants/realdevsquad-constants",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package contains all the constants required for apps in Real Dev Squad.",
   "main": "index.js",
   "scripts": {
